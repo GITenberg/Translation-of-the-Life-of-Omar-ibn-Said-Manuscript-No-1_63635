@@ -1,0 +1,25 @@
+_repo: Translation-of-the-Life-of-Omar-ibn-Said-Manuscript-No-1_63635
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Bird, Isaac
+    gutenberg_agent_id: '52531'
+    url: http://www.gutenberg.org/2009/agents/52531
+creator:
+  author:
+    agent_name: Said, Omar ibn
+    gutenberg_agent_id: '52530'
+    url: http://www.gutenberg.org/2009/agents/52530
+description: ''
+gutenberg_issued: '2020-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63635'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Translation of the Life of Omar ibn Said: Manuscript No. 1'
+url: http://www.gutenberg.org/ebooks/63635
